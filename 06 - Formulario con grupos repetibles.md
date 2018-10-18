@@ -7,7 +7,7 @@ Adicionalmente la visibilidad de los grupos se pueden condicionar a la respuesta
 
 ![enter image description here](https://lh3.googleusercontent.com/ve6fwW8-KiKY7gURHWClUHQfhpf-unx62eEbhnuQooIAaps22QDYOPZVcQrhGyK3aNXuzUQm1eI)
 
-
+![enter image description here](https://lh3.googleusercontent.com/iHW4TnnQZsf-6HZYvSqV7NrFhkEJyY395-X6lXOR_GOBOmog9gcf1bOqE8XLL-Cpq7p1GSjy0cI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzA5MTkzNiwtNzcxNDgyMjM2XX0=
+eyJoaXN0b3J5IjpbMTI4NDE2MjI4LC03NzE0ODIyMzZdfQ==
 -->
