@@ -1,3 +1,6 @@
+![enter image description here](https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150
+)
+
 
 # Formulario con grupos repetibles y grupos condicionales
 
@@ -9,5 +12,6 @@ Adicionalmente la visibilidad de los grupos se pueden condicionar a la respuesta
 
 ![enter image description here](https://lh3.googleusercontent.com/iHW4TnnQZsf-6HZYvSqV7NrFhkEJyY395-X6lXOR_GOBOmog9gcf1bOqE8XLL-Cpq7p1GSjy0cI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDE2MjI4LC03NzE0ODIyMzZdfQ==
+eyJoaXN0b3J5IjpbLTEyODM0NzIwMDQsMTI4NDE2MjI4LC03Nz
+E0ODIyMzZdfQ==
 -->
