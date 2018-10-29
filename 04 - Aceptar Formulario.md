@@ -3,6 +3,7 @@
 
 ---
 
+<p><img src="https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150" alt="enter image description here"></p>
 <h1 id="aceptar-formulario">Aceptar Formulario</h1>
 <p>Luego del que el formulario es recibido y completado por la contratista deberán pasar al estado <strong>Enviado</strong>, a partir de esta instancia el formulario aparecerá en la bandeja de entrada del grupo solicitante.</p>
 <h2 id="respuestas">Respuestas</h2>
