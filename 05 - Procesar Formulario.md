@@ -3,7 +3,8 @@
 
 ---
 
-<h1 id="procesar-formulario">Procesar Formulario</h1>
+<p><img src="https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150" alt="enter image description here"></p>
+<h1 id="procesar-formulario-en-sytex-app">Procesar Formulario en sytex APP</h1>
 <p>Luego de asignado el formulario el supervisor de la contratista deberá definir un usuario para completar los campos.<br>
 En la bandeja de entrada aparecerá el nuevo formulario y solo bastará con comenzar para que la APP guíe al usuario paso a paso pasa completar las preguntas.<br>
 Siempre se podrá navegar entre las pregunta deslizando a la izquierda y derecha.</p>
