@@ -3,13 +3,14 @@
 
 ---
 
+<p><img src="https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150" alt="enter image description here"></p>
 <h1 id="crear-nuevo-formulario">Crear nuevo formulario</h1>
 <h2 id="intro">Intro</h2>
 <p>Los formularios tienen como propósito la carga de información con un formato especificado en una plantilla predefinida,  las datos pueden ser cargados desde un móvil o PC según lo especifique la planilla.</p>
 <h2 id="ruta">Ruta</h2>
-<p><em><strong>Menú principal -&gt; Formulario -&gt; Formulario</strong></em><br>
-o desde<br>
-<em><strong>Agregar elemento (+) -&gt; Formulario</strong></em></p>
+<p>Dos opciónes:</p>
+<p><img src="https://lh3.googleusercontent.com/_8g3nwbU6wMsKvE-z31xbdPyKkHPMmn3TtStRMEgM9V5DvojGaIMkEjjO3ox1U9cF0JaOMl4Ohzd=s18" alt=""> <em><strong>Menú principal -&gt; Formulario -&gt; Formulario</strong></em><br>
+<img src="https://lh3.googleusercontent.com/TctkICxb6rvNLSvcnsch5QEIX-rRhu5ncT0jP4P1gLv0cPgaE9Pozs4cKUNc7AVtdowhkjpUGu-W=s18" alt="">  <em><strong>Agregar elemento -&gt; Formulario</strong></em></p>
 <h2 id="crear-formulario">Crear Formulario</h2>
 <p>Buscar y seleccionar plantilla, luego cargar <strong>proyecto</strong>, <strong>tarea</strong>, <strong>elemento de red</strong>, <strong>sitios afectados</strong> y <strong>fecha proyectada</strong>. Cada formulario tiene un solicitando y un contratista y/o usuarios asignado que será el responsable de completarlo.<br>
 Guardar el formularios para corroborar que todos datos fueron cargados correctamente.</p>
