@@ -9,7 +9,7 @@
 <p>En la plantilla de formulario se definen tipo y cantidad de campos a completar en cada formulario. A cada campo se debe completar con una pregunta y a su respuesta correspondiente preestablecer el formato.<br>
 Las posibilidades de cada campo es muy variada desde texto, coordenada hasta multimedia.</p>
 <h2 id="ruta">Ruta</h2>
-<p><em><strong>Menú principal -&gt; Formularios -&gt; Plantilla de Formularios</strong></em></p>
+<p><img src="https://lh3.googleusercontent.com/_8g3nwbU6wMsKvE-z31xbdPyKkHPMmn3TtStRMEgM9V5DvojGaIMkEjjO3ox1U9cF0JaOMl4Ohzd=s18" alt=""> <em><strong>Menú principal -&gt; Formularios -&gt; Plantilla de Formularios</strong></em></p>
 <h2 id="info-general">Info general</h2>
 <p>Los datos a indicar en el apartado general son:<br>
 <em><strong>Nombre</strong></em> (identificación de la plantilla), <em><strong>versión</strong></em> (versión plantilla), <em><strong>responsable</strong></em> (usuario responsable del proyecto), <em><strong>unidad operativa</strong></em> (grupo de trabajo a cargo del proyecto ), <em><strong>cliente</strong></em> (empresa usuaria de Sytex) y <em><strong>proyecto</strong></em> (proyecto donde se utilizará el formulario)</p>
