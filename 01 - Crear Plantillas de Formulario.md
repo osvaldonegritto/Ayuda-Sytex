@@ -1,9 +1,34 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>01 - Crear Plantillas de Formulario</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#crear-nueva-plantilla-de-formulario">Crear nueva plantilla de formulario</a>
+<ul>
+<li><a href="#introducción">Introducción</a></li>
+<li><a href="#ruta">Ruta</a></li>
+<li><a href="#info-general">Info general</a></li>
+<li><a href="#plantilla">Plantilla</a></li>
+<li><a href="#logs">Logs</a></li>
+</ul>
+</li>
+</ul>
 
-<p><img src="https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150" alt="enter image description here"></p>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <p><img src="https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150" alt="enter image description here"></p>
 <h1 id="crear-nueva-plantilla-de-formulario">Crear nueva plantilla de formulario</h1>
 <h2 id="introducción">Introducción</h2>
 <p>En la plantilla de formulario se definen tipo y cantidad de campos a completar en cada formulario. A cada campo se debe completar con una pregunta y a su respuesta correspondiente preestablecer el formato.<br>
@@ -13,7 +38,8 @@ Las posibilidades de cada campo es muy variada desde texto, coordenada hasta mul
 <h2 id="info-general">Info general</h2>
 <p>Los datos a indicar en el apartado general son:<br>
 <em><strong>Nombre</strong></em> (identificación de la plantilla), <em><strong>versión</strong></em> (versión plantilla), <em><strong>responsable</strong></em> (usuario responsable del proyecto), <em><strong>unidad operativa</strong></em> (grupo de trabajo a cargo del proyecto ), <em><strong>cliente</strong></em> (empresa usuaria de Sytex) y <em><strong>proyecto</strong></em> (proyecto donde se utilizará el formulario)</p>
-<p><img src="https://lh3.googleusercontent.com/1YSdDxkGCXe1HDNFwo45_l5cgsXEqh9eVzObLEyZrMBiI12kh1dIFxDyoGnkQVjCGXF-rrsrs0c" alt="enter image description here" title="Plantilla Formulario"></p>
+<p><img src="https://lh3.googleusercontent.com/1YSdDxkGCXe1HDNFwo45_l5cgsXEqh9eVzObLEyZrMBiI12kh1dIFxDyoGnkQVjCGXF-rrsrs0c" alt="enter image description here" title="Plantilla Formulario"><br>
+<em><strong>Crear nueva plantilla de formulario</strong></em></p>
 <h2 id="plantilla">Plantilla</h2>
 <p>Luego de guardar los datos de <strong>Info general</strong> aparecerá la opción de completar la Plantilla.<br>
 La Plantilla es el cuerpo del formulario que define que datos y como serán  solicitados a los usuarios cada vez que se procese un formulario.<br>
@@ -118,8 +144,13 @@ Los valores posibles en cada campo son Fecha, Área de texto, Acción, Si/No, Op
 </tbody>
 </table><p><br><br><br>
 <img src="https://lh3.googleusercontent.com/jH43PtvGJvdDxTwOp9KaGGTXRYC9cIK25x1g4cGtZEpgLgOES8jnnj803yYVISUtzSkI-AyfIYw" alt="enter image description here" title="Plantilla Formulario - Plantilla"><br>
-<br><br></p>
+<em><strong>Plantilla de formulario</strong></em></p>
 <h2 id="logs">Logs</h2>
 <p>Registra toda la actividad realizada sobre la Plantilla, guardando fecha y usuarios intervinientes.</p>
 <p><strong>Nota:</strong> Una vez finaliza la plantilla se deberá cambiar el estado a <strong>Confirmada</strong> para que habilitar la creación de formularios a partir de la misma.</p>
 
+    </div>
+  </div>
+</body>
+
+</html>
