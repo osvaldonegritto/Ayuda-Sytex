@@ -13,9 +13,14 @@ Adicionalmente la visibilidad de los grupos se pueden condicionar a la respuesta
 ![enter image description here](https://lh3.googleusercontent.com/iHW4TnnQZsf-6HZYvSqV7NrFhkEJyY395-X6lXOR_GOBOmog9gcf1bOqE8XLL-Cpq7p1GSjy0cI)
 
 
+<br/>
+---
+Copyright © 2018 Siteplan, edición 22-11-2018
+
+
 [logo]: https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTkxMDM0Miw1NjYwODU3OTIsLTEyOD
-M0NzIwMDQsMTI4NDE2MjI4LC03NzE0ODIyMzZdfQ==
+eyJoaXN0b3J5IjpbNTM4NTMwMTMsNTY2MDg1NzkyLC0xMjgzND
+cyMDA0LDEyODQxNjIyOCwtNzcxNDgyMjM2XX0=
 -->
