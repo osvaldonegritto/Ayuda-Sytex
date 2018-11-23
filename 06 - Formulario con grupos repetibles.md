@@ -1,5 +1,6 @@
-![] [logo]
+![][logo_sytex _3]
 
+[logo_sytex _3]:https://lh3.googleusercontent.com/2dANsFHVh9SSZioywu9b2YwQDPM_wfkI54b65rwyN0qKvLWzWUeBt7Mo1AbqTmMxSIAAg_FTqYQJ=s2000
 
 # Formulario con grupos repetibles y grupos condicionales
 
@@ -15,6 +16,6 @@ Adicionalmente la visibilidad de los grupos se pueden condicionar a la respuesta
 [logo]: https://lh3.googleusercontent.com/d027cMG3gB4nnuqlggwqnvSp6T1mW4mQ-J5kjMEohn41LpAPEMFie762QlL7-YFOIpccHFUuNKgs=s150 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MDg1NzkyLC0xMjgzNDcyMDA0LDEyOD
-QxNjIyOCwtNzcxNDgyMjM2XX0=
+eyJoaXN0b3J5IjpbMTcwNTkxMDM0Miw1NjYwODU3OTIsLTEyOD
+M0NzIwMDQsMTI4NDE2MjI4LC03NzE0ODIyMzZdfQ==
 -->
